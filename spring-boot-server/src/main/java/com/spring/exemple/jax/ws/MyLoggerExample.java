@@ -1,4 +1,4 @@
-package com.bezkoder.spring.jpa.postgresql.jax.ws;
+package com.spring.exemple.jax.ws;
 
 import java.util.logging.Logger;
 

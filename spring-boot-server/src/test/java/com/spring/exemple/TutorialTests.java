@@ -1,8 +1,7 @@
-package com.bezkoder.spring.jpa.postgresql;
+package com.spring.exemple;
 
-import com.bezkoder.spring.jpa.postgresql.model.Tutorial;
-import com.bezkoder.spring.jpa.postgresql.repository.TutorialRepository;
-import org.junit.Assert;
+import com.spring.exemple.model.Tutorial;
+import com.spring.exemple.repository.TutorialRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

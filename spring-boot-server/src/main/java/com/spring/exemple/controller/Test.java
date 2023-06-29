@@ -1,4 +1,4 @@
-package com.bezkoder.spring.jpa.postgresql.controller;
+package com.spring.exemple.controller;
 
 public class Test {
 

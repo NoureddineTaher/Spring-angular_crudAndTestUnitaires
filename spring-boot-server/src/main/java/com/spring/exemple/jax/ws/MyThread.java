@@ -1,4 +1,4 @@
-package com.bezkoder.spring.jpa.postgresql.jax.ws;
+package com.spring.exemple.jax.ws;
 
 public class MyThread extends Thread {
     @Override
